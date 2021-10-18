@@ -40,7 +40,7 @@ curl -p -x localhost:1312 "https://api.giphy.com/v1/gifs/search?api_key=O4FTCFzV
 Design
 -------
 This software is designed to be as simple as possible and use as
-few external dependencies as possible. Less code == ess bugs.
+few external dependencies as possible. Less code == less bugs.
 
 The basic flow of the application is as follows: 
 
